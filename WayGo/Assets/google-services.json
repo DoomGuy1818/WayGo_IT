@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023888172229",
+    "project_id": "waygodb-9ccc6",
+    "storage_bucket": "waygodb-9ccc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023888172229:android:2c673f5347f4d7b32c3cac",
+        "android_client_info": {
+          "package_name": "com.WayGo.WayGo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQidOZq7ROESszzHYYnfK_CgwTL69_NhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
